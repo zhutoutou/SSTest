@@ -1,0 +1,13 @@
+﻿正在安装程序集“D:\Code\SSTest\packages\SuperSocket.Engine.1.6.6.1\lib\net40\SuperSocket.SocketService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\Code\SSTest\packages\SuperSocket.Engine.1.6.6.1\lib\net40\SuperSocket.SocketService.exe
+   logfile = D:\Code\SSTest\packages\SuperSocket.Engine.1.6.6.1\lib\net40\SuperSocket.SocketService.InstallLog
+正在安装服务 SupperSocketService...
+已成功安装服务 SupperSocketService。
+正在日志 Application 中创建 EventLog 源 SupperSocketService...
+正在提交程序集“D:\Code\SSTest\packages\SuperSocket.Engine.1.6.6.1\lib\net40\SuperSocket.SocketService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\Code\SSTest\packages\SuperSocket.Engine.1.6.6.1\lib\net40\SuperSocket.SocketService.exe
+   logfile = D:\Code\SSTest\packages\SuperSocket.Engine.1.6.6.1\lib\net40\SuperSocket.SocketService.InstallLog
